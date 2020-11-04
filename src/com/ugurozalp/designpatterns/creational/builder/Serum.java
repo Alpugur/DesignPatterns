@@ -1,4 +1,4 @@
-package com.ugurozalp.designpattern.builder;
+package com.ugurozalp.designpatterns.creational.builder;
 
 public class Serum {
 
